@@ -1,2 +1,2 @@
-# etecting-NNegative-Emotional-Stress-Based-on-Facial-Expression-in-Real-Time
+# Detecting-NNegative-Emotional-Stress-Based-on-Facial-Expression-in-Real-Time
 Reimplement the baseline CCNN model. Train and evaluate on one dataset used in the paper.Extend the system by developing a Class-Balanced CCNN (CB-CCNN) to address the imbalance problem.Compare baseline vs. extended model using: Per-class Recall and Macro F1-score to assess performance on minority (stress-related) emotions.
